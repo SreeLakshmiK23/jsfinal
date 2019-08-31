@@ -1,0 +1,49 @@
+  
+  /* body
+  {
+    background-image: url("que.jpg"); 
+    background-repeat: repeat;
+    overflow: auto;
+  }  */
+
+  .bgimage{
+    background-image: url("que.jpg"); 
+    background-repeat: repeat;
+  }
+
+  .actualone{
+    display:flex;  
+    justify-content:center; 
+    align-Items:center;
+    margin:25px;
+   
+   }
+   
+   .overflowTest{
+    padding-left: 3rem;
+    padding-right: 3rem;
+    width: 600px;
+    height:400px;
+    background: rgb(129, 154, 172);
+    left: 360px;
+    top: 216px;
+    position: absolute;
+    padding-top: 2rem;
+    
+
+        }
+
+         .footer {
+          position: relative;
+          left: 0;
+          bottom: 0;
+          width: 100%;
+          /* height:10%; */
+          background-color: rgb(38, 50, 117);
+          color: white;
+          text-align: center;
+       }
+  .pclass
+  {
+    margin-top: 1rem;
+  }
